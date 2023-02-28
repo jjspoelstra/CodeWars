@@ -1,5 +1,5 @@
 # Codewars
-My repository of codewars challenges, push anywhere from 14-21 solutions every week.
+My repository of codewars challenges, where I push anywhere from 14-21 solutions every week.
 
 # How It's Made:
 Tech used: JavaScript
