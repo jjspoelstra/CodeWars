@@ -1,9 +1,6 @@
 # Codewars
 My repository of codewars challenges, push anywhere from 14-21 solutions every week.
 
-<img src="https://github.com/jjspoelstra/jjspoelstra/raw/main/images/gifBlackjack.gif" />
-
-
 # How It's Made:
 Tech used: JavaScript
 
